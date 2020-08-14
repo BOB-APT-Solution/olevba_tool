@@ -9,8 +9,10 @@ Olevba tools를 기반으로 하는 pauser tool
  VBA_Parser, TYPE_OLE, TYPE_OpenXML, TYPE_Word2003_XML, TYPE_MHTML, detect_autoexec, VBA_Scanner를 import하여 사용합니다.
  
  
- 입력 : python oleole.py 파일명 
- 출력 : 
+  입력 : python oleole.py 파일명
+ 
+  출력 : 
+ 
 ![주석 2020-08-14 2203572](https://user-images.githubusercontent.com/67878157/90252745-fa017f80-de7a-11ea-829c-86f654115eae.png)
 ![주석 2020-08-14 220357](https://user-images.githubusercontent.com/67878157/90252695-e524ec00-de7a-11ea-9565-c65c0b769099.png)
 
