@@ -26,3 +26,4 @@ Olevba tools를 기반으로 하는 pauser tool
     2. 해당 파일을 VBA_Scanner를 활용해 코드를 추출함 
     3. 어떤 유형의 난독화인지 찾아내고, 이를 화면에 출력  
     
+
