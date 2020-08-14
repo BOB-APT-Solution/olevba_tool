@@ -1,6 +1,11 @@
 # olevba_tool
 olevba base _ pauser tool
 
+기본 설치 
+pip install python-ooxml
+pip install oletools 
+
+
 Olevba tools를 기반으로 하는 pauser tool
 
 1. oleole.py 
@@ -26,4 +31,10 @@ Olevba tools를 기반으로 하는 pauser tool
     2. 해당 파일을 VBA_Scanner를 활용해 코드를 추출함 
     3. 어떤 유형의 난독화인지 찾아내고, 이를 화면에 출력  
     
+
+
+2. ooxmlpaser.py
+Python-OOXML은 Office Open XML 파일을 구문 분석하기위한 Python 라이브러리입니다. 
+현재 HTML 만 출력 형식으로 지원합니다. 출력의 쉬운 사용자 정의에 중점을 둡니다. 
+라이브러리에는 문서를 별도의 장으로 분할 할 수있는 가져 오기 도구가 함께 제공됩니다. Word 스타일을 사용하는 문서와 사용되지 않는 문서 모두에서 작동합니다.
 
