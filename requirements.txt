@@ -1,0 +1,14 @@
+cffi==1.14.2
+colorclass==2.2.0
+cryptography==3.0
+easygui==0.98.1
+lxml==4.5.2
+msoffcrypto-tool==4.10.2
+olefile==0.46
+oletools==0.55.1
+pcodedmp==1.2.6
+pkg-resources==0.0.0
+pycparser==2.20
+pyparsing==2.4.7
+Python-OOXML==0.13
+six==1.15.0
